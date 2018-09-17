@@ -1,0 +1,1477 @@
+fileFormatVersion: 2
+guid: d5957db075a1dfd4792fddeaa9cf2616
+timeCreated: 1519843337
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cube
+    100002: Cube_(1)
+    100004: Cube_(10)
+    100006: Cube_(100)
+    100008: Cube_(101)
+    100010: Cube_(102)
+    100012: Cube_(103)
+    100014: Cube_(104)
+    100016: Cube_(105)
+    100018: Cube_(106)
+    100020: Cube_(107)
+    100022: Cube_(108)
+    100024: Cube_(109)
+    100026: Cube_(11)
+    100028: Cube_(110)
+    100030: Cube_(111)
+    100032: Cube_(112)
+    100034: Cube_(12)
+    100036: Cube_(13)
+    100038: Cube_(14)
+    100040: Cube_(15)
+    100042: Cube_(16)
+    100044: Cube_(17)
+    100046: Cube_(18)
+    100048: Cube_(19)
+    100050: Cube_(2)
+    100052: Cube_(20)
+    100054: Cube_(21)
+    100056: Cube_(22)
+    100058: Cube_(23)
+    100060: Cube_(24)
+    100062: Cube_(25)
+    100064: Cube_(26)
+    100066: Cube_(27)
+    100068: Cube_(28)
+    100070: Cube_(29)
+    100072: Cube_(3)
+    100074: Cube_(30)
+    100076: Cube_(31)
+    100078: Cube_(32)
+    100080: Cube_(33)
+    100082: Cube_(34)
+    100084: Cube_(35)
+    100086: Cube_(36)
+    100088: Cube_(37)
+    100090: Cube_(38)
+    100092: Cube_(39)
+    100094: Cube_(4)
+    100096: Cube_(40)
+    100098: Cube_(41)
+    100100: Cube_(42)
+    100102: Cube_(43)
+    100104: Cube_(44)
+    100106: Cube_(45)
+    100108: Cube_(46)
+    100110: Cube_(47)
+    100112: Cube_(48)
+    100114: Cube_(49)
+    100116: Cube_(5)
+    100118: Cube_(50)
+    100120: Cube_(51)
+    100122: Cube_(52)
+    100124: Cube_(53)
+    100126: Cube_(54)
+    100128: Cube_(55)
+    100130: Cube_(56)
+    100132: Cube_(57)
+    100134: Cube_(58)
+    100136: Cube_(59)
+    100138: Cube_(6)
+    100140: Cube_(60)
+    100142: Cube_(61)
+    100144: Cube_(62)
+    100146: Cube_(63)
+    100148: Cube_(64)
+    100150: Cube_(65)
+    100152: Cube_(66)
+    100154: Cube_(67)
+    100156: Cube_(68)
+    100158: Cube_(69)
+    100160: Cube_(7)
+    100162: Cube_(70)
+    100164: Cube_(71)
+    100166: Cube_(72)
+    100168: Cube_(73)
+    100170: Cube_(74)
+    100172: Cube_(75)
+    100174: Cube_(76)
+    100176: Cube_(77)
+    100178: Cube_(78)
+    100180: Cube_(79)
+    100182: Cube_(8)
+    100184: Cube_(80)
+    100186: Cube_(81)
+    100188: Cube_(82)
+    100190: Cube_(83)
+    100192: Cube_(84)
+    100194: Cube_(85)
+    100196: Cube_(86)
+    100198: Cube_(87)
+    100200: Cube_(88)
+    100202: Cube_(89)
+    100204: Cube_(9)
+    100206: Cube_(90)
+    100208: Cube_(91)
+    100210: Cube_(92)
+    100212: Cube_(93)
+    100214: Cube_(94)
+    100216: Cube_(95)
+    100218: Cube_(96)
+    100220: Cube_(97)
+    100222: Cube_(98)
+    100224: Cube_(99)
+    100226: //RootNode
+    100228: Stairs
+    100230: Stairs_(1)
+    100232: Stairs_(10)
+    100234: Stairs_(11)
+    100236: Stairs_(12)
+    100238: Stairs_(13)
+    100240: Stairs_(14)
+    100242: Stairs_(15)
+    100244: Stairs_(16)
+    100246: Stairs_(17)
+    100248: Stairs_(18)
+    100250: Stairs_(19)
+    100252: Stairs_(2)
+    100254: Stairs_(20)
+    100256: Stairs_(21)
+    100258: Stairs_(22)
+    100260: Stairs_(23)
+    100262: Stairs_(24)
+    100264: Stairs_(25)
+    100266: Stairs_(3)
+    100268: Stairs_(4)
+    100270: Stairs_(5)
+    100272: Stairs_(6)
+    100274: Stairs_(7)
+    100276: Stairs_(8)
+    100278: Stairs_(9)
+    400000: Cube
+    400002: Cube_(1)
+    400004: Cube_(10)
+    400006: Cube_(100)
+    400008: Cube_(101)
+    400010: Cube_(102)
+    400012: Cube_(103)
+    400014: Cube_(104)
+    400016: Cube_(105)
+    400018: Cube_(106)
+    400020: Cube_(107)
+    400022: Cube_(108)
+    400024: Cube_(109)
+    400026: Cube_(11)
+    400028: Cube_(110)
+    400030: Cube_(111)
+    400032: Cube_(112)
+    400034: Cube_(12)
+    400036: Cube_(13)
+    400038: Cube_(14)
+    400040: Cube_(15)
+    400042: Cube_(16)
+    400044: Cube_(17)
+    400046: Cube_(18)
+    400048: Cube_(19)
+    400050: Cube_(2)
+    400052: Cube_(20)
+    400054: Cube_(21)
+    400056: Cube_(22)
+    400058: Cube_(23)
+    400060: Cube_(24)
+    400062: Cube_(25)
+    400064: Cube_(26)
+    400066: Cube_(27)
+    400068: Cube_(28)
+    400070: Cube_(29)
+    400072: Cube_(3)
+    400074: Cube_(30)
+    400076: Cube_(31)
+    400078: Cube_(32)
+    400080: Cube_(33)
+    400082: Cube_(34)
+    400084: Cube_(35)
+    400086: Cube_(36)
+    400088: Cube_(37)
+    400090: Cube_(38)
+    400092: Cube_(39)
+    400094: Cube_(4)
+    400096: Cube_(40)
+    400098: Cube_(41)
+    400100: Cube_(42)
+    400102: Cube_(43)
+    400104: Cube_(44)
+    400106: Cube_(45)
+    400108: Cube_(46)
+    400110: Cube_(47)
+    400112: Cube_(48)
+    400114: Cube_(49)
+    400116: Cube_(5)
+    400118: Cube_(50)
+    400120: Cube_(51)
+    400122: Cube_(52)
+    400124: Cube_(53)
+    400126: Cube_(54)
+    400128: Cube_(55)
+    400130: Cube_(56)
+    400132: Cube_(57)
+    400134: Cube_(58)
+    400136: Cube_(59)
+    400138: Cube_(6)
+    400140: Cube_(60)
+    400142: Cube_(61)
+    400144: Cube_(62)
+    400146: Cube_(63)
+    400148: Cube_(64)
+    400150: Cube_(65)
+    400152: Cube_(66)
+    400154: Cube_(67)
+    400156: Cube_(68)
+    400158: Cube_(69)
+    400160: Cube_(7)
+    400162: Cube_(70)
+    400164: Cube_(71)
+    400166: Cube_(72)
+    400168: Cube_(73)
+    400170: Cube_(74)
+    400172: Cube_(75)
+    400174: Cube_(76)
+    400176: Cube_(77)
+    400178: Cube_(78)
+    400180: Cube_(79)
+    400182: Cube_(8)
+    400184: Cube_(80)
+    400186: Cube_(81)
+    400188: Cube_(82)
+    400190: Cube_(83)
+    400192: Cube_(84)
+    400194: Cube_(85)
+    400196: Cube_(86)
+    400198: Cube_(87)
+    400200: Cube_(88)
+    400202: Cube_(89)
+    400204: Cube_(9)
+    400206: Cube_(90)
+    400208: Cube_(91)
+    400210: Cube_(92)
+    400212: Cube_(93)
+    400214: Cube_(94)
+    400216: Cube_(95)
+    400218: Cube_(96)
+    400220: Cube_(97)
+    400222: Cube_(98)
+    400224: Cube_(99)
+    400226: //RootNode
+    400228: Stairs
+    400230: Stairs_(1)
+    400232: Stairs_(10)
+    400234: Stairs_(11)
+    400236: Stairs_(12)
+    400238: Stairs_(13)
+    400240: Stairs_(14)
+    400242: Stairs_(15)
+    400244: Stairs_(16)
+    400246: Stairs_(17)
+    400248: Stairs_(18)
+    400250: Stairs_(19)
+    400252: Stairs_(2)
+    400254: Stairs_(20)
+    400256: Stairs_(21)
+    400258: Stairs_(22)
+    400260: Stairs_(23)
+    400262: Stairs_(24)
+    400264: Stairs_(25)
+    400266: Stairs_(3)
+    400268: Stairs_(4)
+    400270: Stairs_(5)
+    400272: Stairs_(6)
+    400274: Stairs_(7)
+    400276: Stairs_(8)
+    400278: Stairs_(9)
+    2300000: Cube
+    2300002: Cube_(1)
+    2300004: Cube_(10)
+    2300006: Cube_(100)
+    2300008: Cube_(101)
+    2300010: Cube_(102)
+    2300012: Cube_(103)
+    2300014: Cube_(104)
+    2300016: Cube_(105)
+    2300018: Cube_(106)
+    2300020: Cube_(107)
+    2300022: Cube_(108)
+    2300024: Cube_(109)
+    2300026: Cube_(11)
+    2300028: Cube_(110)
+    2300030: Cube_(111)
+    2300032: Cube_(112)
+    2300034: Cube_(12)
+    2300036: Cube_(13)
+    2300038: Cube_(14)
+    2300040: Cube_(15)
+    2300042: Cube_(16)
+    2300044: Cube_(17)
+    2300046: Cube_(18)
+    2300048: Cube_(19)
+    2300050: Cube_(2)
+    2300052: Cube_(20)
+    2300054: Cube_(21)
+    2300056: Cube_(22)
+    2300058: Cube_(23)
+    2300060: Cube_(24)
+    2300062: Cube_(25)
+    2300064: Cube_(26)
+    2300066: Cube_(27)
+    2300068: Cube_(28)
+    2300070: Cube_(29)
+    2300072: Cube_(3)
+    2300074: Cube_(30)
+    2300076: Cube_(31)
+    2300078: Cube_(32)
+    2300080: Cube_(33)
+    2300082: Cube_(34)
+    2300084: Cube_(35)
+    2300086: Cube_(36)
+    2300088: Cube_(37)
+    2300090: Cube_(38)
+    2300092: Cube_(39)
+    2300094: Cube_(4)
+    2300096: Cube_(40)
+    2300098: Cube_(41)
+    2300100: Cube_(42)
+    2300102: Cube_(43)
+    2300104: Cube_(44)
+    2300106: Cube_(45)
+    2300108: Cube_(46)
+    2300110: Cube_(47)
+    2300112: Cube_(48)
+    2300114: Cube_(49)
+    2300116: Cube_(5)
+    2300118: Cube_(50)
+    2300120: Cube_(51)
+    2300122: Cube_(52)
+    2300124: Cube_(53)
+    2300126: Cube_(54)
+    2300128: Cube_(55)
+    2300130: Cube_(56)
+    2300132: Cube_(57)
+    2300134: Cube_(58)
+    2300136: Cube_(59)
+    2300138: Cube_(6)
+    2300140: Cube_(60)
+    2300142: Cube_(61)
+    2300144: Cube_(62)
+    2300146: Cube_(63)
+    2300148: Cube_(64)
+    2300150: Cube_(65)
+    2300152: Cube_(66)
+    2300154: Cube_(67)
+    2300156: Cube_(68)
+    2300158: Cube_(69)
+    2300160: Cube_(7)
+    2300162: Cube_(70)
+    2300164: Cube_(71)
+    2300166: Cube_(72)
+    2300168: Cube_(73)
+    2300170: Cube_(74)
+    2300172: Cube_(75)
+    2300174: Cube_(76)
+    2300176: Cube_(77)
+    2300178: Cube_(78)
+    2300180: Cube_(79)
+    2300182: Cube_(8)
+    2300184: Cube_(80)
+    2300186: Cube_(81)
+    2300188: Cube_(82)
+    2300190: Cube_(83)
+    2300192: Cube_(84)
+    2300194: Cube_(85)
+    2300196: Cube_(86)
+    2300198: Cube_(87)
+    2300200: Cube_(88)
+    2300202: Cube_(89)
+    2300204: Cube_(9)
+    2300206: Cube_(90)
+    2300208: Cube_(91)
+    2300210: Cube_(92)
+    2300212: Cube_(93)
+    2300214: Cube_(94)
+    2300216: Cube_(95)
+    2300218: Cube_(96)
+    2300220: Cube_(97)
+    2300222: Cube_(98)
+    2300224: Cube_(99)
+    2300226: Stairs
+    2300228: Stairs_(1)
+    2300230: Stairs_(10)
+    2300232: Stairs_(11)
+    2300234: Stairs_(12)
+    2300236: Stairs_(13)
+    2300238: Stairs_(14)
+    2300240: Stairs_(15)
+    2300242: Stairs_(16)
+    2300244: Stairs_(17)
+    2300246: Stairs_(18)
+    2300248: Stairs_(19)
+    2300250: Stairs_(2)
+    2300252: Stairs_(20)
+    2300254: Stairs_(21)
+    2300256: Stairs_(22)
+    2300258: Stairs_(23)
+    2300260: Stairs_(24)
+    2300262: Stairs_(25)
+    2300264: Stairs_(3)
+    2300266: Stairs_(4)
+    2300268: Stairs_(5)
+    2300270: Stairs_(6)
+    2300272: Stairs_(7)
+    2300274: Stairs_(8)
+    2300276: Stairs_(9)
+    3300000: Cube
+    3300002: Cube_(1)
+    3300004: Cube_(10)
+    3300006: Cube_(100)
+    3300008: Cube_(101)
+    3300010: Cube_(102)
+    3300012: Cube_(103)
+    3300014: Cube_(104)
+    3300016: Cube_(105)
+    3300018: Cube_(106)
+    3300020: Cube_(107)
+    3300022: Cube_(108)
+    3300024: Cube_(109)
+    3300026: Cube_(11)
+    3300028: Cube_(110)
+    3300030: Cube_(111)
+    3300032: Cube_(112)
+    3300034: Cube_(12)
+    3300036: Cube_(13)
+    3300038: Cube_(14)
+    3300040: Cube_(15)
+    3300042: Cube_(16)
+    3300044: Cube_(17)
+    3300046: Cube_(18)
+    3300048: Cube_(19)
+    3300050: Cube_(2)
+    3300052: Cube_(20)
+    3300054: Cube_(21)
+    3300056: Cube_(22)
+    3300058: Cube_(23)
+    3300060: Cube_(24)
+    3300062: Cube_(25)
+    3300064: Cube_(26)
+    3300066: Cube_(27)
+    3300068: Cube_(28)
+    3300070: Cube_(29)
+    3300072: Cube_(3)
+    3300074: Cube_(30)
+    3300076: Cube_(31)
+    3300078: Cube_(32)
+    3300080: Cube_(33)
+    3300082: Cube_(34)
+    3300084: Cube_(35)
+    3300086: Cube_(36)
+    3300088: Cube_(37)
+    3300090: Cube_(38)
+    3300092: Cube_(39)
+    3300094: Cube_(4)
+    3300096: Cube_(40)
+    3300098: Cube_(41)
+    3300100: Cube_(42)
+    3300102: Cube_(43)
+    3300104: Cube_(44)
+    3300106: Cube_(45)
+    3300108: Cube_(46)
+    3300110: Cube_(47)
+    3300112: Cube_(48)
+    3300114: Cube_(49)
+    3300116: Cube_(5)
+    3300118: Cube_(50)
+    3300120: Cube_(51)
+    3300122: Cube_(52)
+    3300124: Cube_(53)
+    3300126: Cube_(54)
+    3300128: Cube_(55)
+    3300130: Cube_(56)
+    3300132: Cube_(57)
+    3300134: Cube_(58)
+    3300136: Cube_(59)
+    3300138: Cube_(6)
+    3300140: Cube_(60)
+    3300142: Cube_(61)
+    3300144: Cube_(62)
+    3300146: Cube_(63)
+    3300148: Cube_(64)
+    3300150: Cube_(65)
+    3300152: Cube_(66)
+    3300154: Cube_(67)
+    3300156: Cube_(68)
+    3300158: Cube_(69)
+    3300160: Cube_(7)
+    3300162: Cube_(70)
+    3300164: Cube_(71)
+    3300166: Cube_(72)
+    3300168: Cube_(73)
+    3300170: Cube_(74)
+    3300172: Cube_(75)
+    3300174: Cube_(76)
+    3300176: Cube_(77)
+    3300178: Cube_(78)
+    3300180: Cube_(79)
+    3300182: Cube_(8)
+    3300184: Cube_(80)
+    3300186: Cube_(81)
+    3300188: Cube_(82)
+    3300190: Cube_(83)
+    3300192: Cube_(84)
+    3300194: Cube_(85)
+    3300196: Cube_(86)
+    3300198: Cube_(87)
+    3300200: Cube_(88)
+    3300202: Cube_(89)
+    3300204: Cube_(9)
+    3300206: Cube_(90)
+    3300208: Cube_(91)
+    3300210: Cube_(92)
+    3300212: Cube_(93)
+    3300214: Cube_(94)
+    3300216: Cube_(95)
+    3300218: Cube_(96)
+    3300220: Cube_(97)
+    3300222: Cube_(98)
+    3300224: Cube_(99)
+    3300226: Stairs
+    3300228: Stairs_(1)
+    3300230: Stairs_(10)
+    3300232: Stairs_(11)
+    3300234: Stairs_(12)
+    3300236: Stairs_(13)
+    3300238: Stairs_(14)
+    3300240: Stairs_(15)
+    3300242: Stairs_(16)
+    3300244: Stairs_(17)
+    3300246: Stairs_(18)
+    3300248: Stairs_(19)
+    3300250: Stairs_(2)
+    3300252: Stairs_(20)
+    3300254: Stairs_(21)
+    3300256: Stairs_(22)
+    3300258: Stairs_(23)
+    3300260: Stairs_(24)
+    3300262: Stairs_(25)
+    3300264: Stairs_(3)
+    3300266: Stairs_(4)
+    3300268: Stairs_(5)
+    3300270: Stairs_(6)
+    3300272: Stairs_(7)
+    3300274: Stairs_(8)
+    3300276: Stairs_(9)
+    4300000: Cube
+    4300002: Cube_(1)
+    4300004: Cube_(10)
+    4300006: Cube_(100)
+    4300008: Cube_(101)
+    4300010: Cube_(102)
+    4300012: Cube_(103)
+    4300014: Cube_(104)
+    4300016: Cube_(105)
+    4300018: Cube_(106)
+    4300020: Cube_(107)
+    4300022: Cube_(108)
+    4300024: Cube_(109)
+    4300026: Cube_(11)
+    4300028: Cube_(110)
+    4300030: Cube_(111)
+    4300032: Cube_(112)
+    4300034: Cube_(12)
+    4300036: Cube_(13)
+    4300038: Cube_(14)
+    4300040: Cube_(15)
+    4300042: Cube_(16)
+    4300044: Cube_(17)
+    4300046: Cube_(18)
+    4300048: Cube_(19)
+    4300050: Cube_(2)
+    4300052: Cube_(20)
+    4300054: Cube_(21)
+    4300056: Cube_(22)
+    4300058: Cube_(23)
+    4300060: Cube_(24)
+    4300062: Cube_(25)
+    4300064: Cube_(26)
+    4300066: Cube_(27)
+    4300068: Cube_(28)
+    4300070: Cube_(29)
+    4300072: Cube_(3)
+    4300074: Cube_(30)
+    4300076: Cube_(31)
+    4300078: Cube_(32)
+    4300080: Cube_(33)
+    4300082: Cube_(34)
+    4300084: Cube_(35)
+    4300086: Cube_(36)
+    4300088: Cube_(37)
+    4300090: Cube_(38)
+    4300092: Cube_(39)
+    4300094: Cube_(4)
+    4300096: Cube_(40)
+    4300098: Cube_(41)
+    4300100: Cube_(42)
+    4300102: Cube_(43)
+    4300104: Cube_(44)
+    4300106: Cube_(45)
+    4300108: Cube_(46)
+    4300110: Cube_(47)
+    4300112: Cube_(48)
+    4300114: Cube_(49)
+    4300116: Cube_(5)
+    4300118: Cube_(50)
+    4300120: Cube_(51)
+    4300122: Cube_(52)
+    4300124: Cube_(53)
+    4300126: Cube_(54)
+    4300128: Cube_(55)
+    4300130: Cube_(56)
+    4300132: Cube_(57)
+    4300134: Cube_(58)
+    4300136: Cube_(59)
+    4300138: Cube_(6)
+    4300140: Cube_(60)
+    4300142: Cube_(61)
+    4300144: Cube_(62)
+    4300146: Cube_(63)
+    4300148: Cube_(64)
+    4300150: Cube_(65)
+    4300152: Cube_(66)
+    4300154: Cube_(67)
+    4300156: Cube_(68)
+    4300158: Cube_(69)
+    4300160: Cube_(7)
+    4300162: Cube_(70)
+    4300164: Cube_(71)
+    4300166: Cube_(72)
+    4300168: Cube_(73)
+    4300170: Cube_(74)
+    4300172: Cube_(75)
+    4300174: Cube_(76)
+    4300176: Cube_(77)
+    4300178: Cube_(78)
+    4300180: Cube_(79)
+    4300182: Cube_(8)
+    4300184: Cube_(80)
+    4300186: Cube_(81)
+    4300188: Cube_(82)
+    4300190: Cube_(83)
+    4300192: Cube_(84)
+    4300194: Cube_(85)
+    4300196: Cube_(86)
+    4300198: Cube_(87)
+    4300200: Cube_(88)
+    4300202: Cube_(89)
+    4300204: Cube_(9)
+    4300206: Cube_(90)
+    4300208: Cube_(91)
+    4300210: Cube_(92)
+    4300212: Cube_(93)
+    4300214: Cube_(94)
+    4300216: Cube_(95)
+    4300218: Cube_(96)
+    4300220: Cube_(97)
+    4300222: Cube_(98)
+    4300224: Cube_(99)
+    4300226: Stairs
+    4300228: Stairs_(1)
+    4300230: Stairs_(10)
+    4300232: Stairs_(11)
+    4300234: Stairs_(12)
+    4300236: Stairs_(13)
+    4300238: Stairs_(14)
+    4300240: Stairs_(15)
+    4300242: Stairs_(16)
+    4300244: Stairs_(17)
+    4300246: Stairs_(18)
+    4300248: Stairs_(19)
+    4300250: Stairs_(2)
+    4300252: Stairs_(20)
+    4300254: Stairs_(21)
+    4300256: Stairs_(22)
+    4300258: Stairs_(23)
+    4300260: Stairs_(24)
+    4300262: Stairs_(25)
+    4300264: Stairs_(3)
+    4300266: Stairs_(4)
+    4300268: Stairs_(5)
+    4300270: Stairs_(6)
+    4300272: Stairs_(7)
+    4300274: Stairs_(8)
+    4300276: Stairs_(9)
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CubeMat
+    second: {fileID: 2100000, guid: 5cfe2cba02d294d40be2ba1d777a928a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(1)Mat
+    second: {fileID: 2100000, guid: 9b19ff35bcd961845bb21efb49f64aaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(10)Mat
+    second: {fileID: 2100000, guid: 3be53b6e9e33a4446bd346b0773fb907, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(100)Mat
+    second: {fileID: 2100000, guid: 6f168e743b944744b8c36bf870c4b37b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(101)Mat
+    second: {fileID: 2100000, guid: b4dfcd759e3d63747b42f6d33fd1ab0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(102)Mat
+    second: {fileID: 2100000, guid: bbcaf915ec6d88440ba3fee9cca001e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(103)Mat
+    second: {fileID: 2100000, guid: 705a05df8aba0af479a474ba61e6d84b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(104)Mat
+    second: {fileID: 2100000, guid: 61b227c75e267a344807f862c7bdea35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(105)Mat
+    second: {fileID: 2100000, guid: 273a73e86cec1f242aad7f877549f03a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(106)Mat
+    second: {fileID: 2100000, guid: c04c39c93f7a77648b68c6c52060741a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(107)Mat
+    second: {fileID: 2100000, guid: e0813b76671ca6f499c68fb223b9d83a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(108)Mat
+    second: {fileID: 2100000, guid: a656725dbcf5f7d418a64eabc9313220, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(109)Mat
+    second: {fileID: 2100000, guid: 999d9d31bc6edbd4caaa1d42ee121891, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(11)Mat
+    second: {fileID: 2100000, guid: c9655e18f65aa15468e53aef292b9f5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(110)Mat
+    second: {fileID: 2100000, guid: 61573b061fe8db347b8449d99016748b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(111)Mat
+    second: {fileID: 2100000, guid: 1f275ea2097766048b90090233ecb29a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(112)Mat
+    second: {fileID: 2100000, guid: 94a81407a5ccea840a3a9b0107c1095b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(12)Mat
+    second: {fileID: 2100000, guid: 9fd3f4bc85be73c47b4279f612967161, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(13)Mat
+    second: {fileID: 2100000, guid: e145d651a534dbe41ad576dbf862d209, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(14)Mat
+    second: {fileID: 2100000, guid: c437241a04fbcdc429046fdda5f12762, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(15)Mat
+    second: {fileID: 2100000, guid: 1cb5e0c7c006b5f4ba453c6236ab70fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(16)Mat
+    second: {fileID: 2100000, guid: deb7a4c6e8f512748a660cad6f25ff3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(17)Mat
+    second: {fileID: 2100000, guid: 5c37e05ced5cc8f4cab52f9a1f6de24f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(18)Mat
+    second: {fileID: 2100000, guid: 19c6cdf967524ea4996cdbbaf07a6db7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(19)Mat
+    second: {fileID: 2100000, guid: 9940452a4418b954b8493827653b4701, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(2)Mat
+    second: {fileID: 2100000, guid: 16dfc1edb89185b43b92438f527ec8da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(20)Mat
+    second: {fileID: 2100000, guid: ee9783ef91cb3514c94ad64e3119a76a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(21)Mat
+    second: {fileID: 2100000, guid: 1f4492cddde1bde478697536a67554fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(22)Mat
+    second: {fileID: 2100000, guid: c366c47cdc94bc244b43dac60e01eb93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(23)Mat
+    second: {fileID: 2100000, guid: b9c617d99ca90d341bc9e7d948becd15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(24)Mat
+    second: {fileID: 2100000, guid: 2b9d02c0d964bdf40a4557f20778f696, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(25)Mat
+    second: {fileID: 2100000, guid: 55f82bdf0afe7d44c9d706c244ae949c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(26)Mat
+    second: {fileID: 2100000, guid: 6a15b945fa27e8141873b1dbe54003e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(27)Mat
+    second: {fileID: 2100000, guid: 22a09fba74c6c844483a54f8de9aef8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(28)Mat
+    second: {fileID: 2100000, guid: f9daf4bb6300c8142879fb24f9c742c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(29)Mat
+    second: {fileID: 2100000, guid: 11874494dc1a1dd42b1e2024d882a6a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(3)Mat
+    second: {fileID: 2100000, guid: 45875f2b21d231f4482a65bd86fba589, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(30)Mat
+    second: {fileID: 2100000, guid: 619af7497d1d7df4b8256cbf5d3bf5a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(31)Mat
+    second: {fileID: 2100000, guid: b01317a9bdd8a1d42b1c650f0f858e8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(32)Mat
+    second: {fileID: 2100000, guid: 68f77917695e0b949a647b35e4cd4f35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(33)Mat
+    second: {fileID: 2100000, guid: b1aa930750e86bd479d10b515d59935a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(34)Mat
+    second: {fileID: 2100000, guid: 28b0f849795f65b498c156556603734e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(35)Mat
+    second: {fileID: 2100000, guid: 9261f91e93608514d97789f352f69b55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(36)Mat
+    second: {fileID: 2100000, guid: 29b4bc13471a09040bb08343a370cac5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(37)Mat
+    second: {fileID: 2100000, guid: 3d08e6e8e5569f94091bc126f0ee82d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(38)Mat
+    second: {fileID: 2100000, guid: 283463fa6fadaa54a9734f2fb6b7858b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(39)Mat
+    second: {fileID: 2100000, guid: 2b9faea0c5c6e734f9786ac3a4aae8ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(4)Mat
+    second: {fileID: 2100000, guid: fcdefb5c0e790b645be1221fd193f3ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(40)Mat
+    second: {fileID: 2100000, guid: 46395ae33b7862f4fbe9ebaa0d9ca38e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(41)Mat
+    second: {fileID: 2100000, guid: c2d6b1b09d95011409d586a168ec8f83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(42)Mat
+    second: {fileID: 2100000, guid: 4ba65a38f880e924898c9a8d2d5b51cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(43)Mat
+    second: {fileID: 2100000, guid: 6436514ec0e853046940db47a1d56472, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(44)Mat
+    second: {fileID: 2100000, guid: 4ebd9b31cce871d40be009ff6267b749, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(45)Mat
+    second: {fileID: 2100000, guid: d2df7063d4c6a654bb72a01105e02560, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(46)Mat
+    second: {fileID: 2100000, guid: 8c265d04d17d7df468dfa9861606e3d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(47)Mat
+    second: {fileID: 2100000, guid: 8eedaf35f160956469a47a784219c403, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(48)Mat
+    second: {fileID: 2100000, guid: 5d6b2648412190a429a301768b89e752, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(49)Mat
+    second: {fileID: 2100000, guid: aa4231c9ec3e93745a9c1423353cbfa2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(5)Mat
+    second: {fileID: 2100000, guid: 863941013f0933d45ad1a9ac536aae97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(50)Mat
+    second: {fileID: 2100000, guid: 7c2e9477740b22340a5c048e6fc19d9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(51)Mat
+    second: {fileID: 2100000, guid: e48006b177ec6d340b5bfa21815b0a1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(52)Mat
+    second: {fileID: 2100000, guid: 0e819993b7143944cb81e7b1f99caf76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(53)Mat
+    second: {fileID: 2100000, guid: b571c20567de6664f98d7a1680125302, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(54)Mat
+    second: {fileID: 2100000, guid: 44330dd053244894499960958033487f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(55)Mat
+    second: {fileID: 2100000, guid: ab13477c6d1c1c14aa501557742eae73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(56)Mat
+    second: {fileID: 2100000, guid: 05e544d8c55552147a32f6e30fa8ca0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(57)Mat
+    second: {fileID: 2100000, guid: 7bb9592513cdedb408c00cd9ea72c7c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(58)Mat
+    second: {fileID: 2100000, guid: 9181df491b4ee3244829af15f02f3aaf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(59)Mat
+    second: {fileID: 2100000, guid: 325ef60737f5b5041882ab734168e352, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(6)Mat
+    second: {fileID: 2100000, guid: b96d058897f37884c89a71f7fbcce650, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(60)Mat
+    second: {fileID: 2100000, guid: 581c85d5e498bf3478899b18eb9f6571, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(61)Mat
+    second: {fileID: 2100000, guid: bd01299a4b03157429d9cca23033f9ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(62)Mat
+    second: {fileID: 2100000, guid: f956a642e2f2e0d42bffde1d39b7d45e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(63)Mat
+    second: {fileID: 2100000, guid: c07f273beee085f4da9f909705f2865b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(64)Mat
+    second: {fileID: 2100000, guid: 2c3a16187c73d634a9392556fe4b6819, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(65)Mat
+    second: {fileID: 2100000, guid: d217bf3cdeb9d1641ad81f1da839f449, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(66)Mat
+    second: {fileID: 2100000, guid: d9fd4cca5bbb9d1428ee149470cf3f47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(67)Mat
+    second: {fileID: 2100000, guid: 307f77ea46b256b4db0ed1d8d6bf347a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(68)Mat
+    second: {fileID: 2100000, guid: f07ed19276ef70f4e9b32255922f16a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(69)Mat
+    second: {fileID: 2100000, guid: 17391335b2123c345a36095e76e389b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(7)Mat
+    second: {fileID: 2100000, guid: a4d18b947d2bc194f8d3604dd0466fa9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(70)Mat
+    second: {fileID: 2100000, guid: ec27cb80d7276574cacf4b0b173416e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(71)Mat
+    second: {fileID: 2100000, guid: fc938edf67c65d1438ca521af0b97722, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(72)Mat
+    second: {fileID: 2100000, guid: 9446b236ec657174dae3b9c85a9e5d0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(73)Mat
+    second: {fileID: 2100000, guid: 48b643ef4ae91df45828314f0b17c887, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(74)Mat
+    second: {fileID: 2100000, guid: 0132db5247a63e44daafd82e725e2feb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(75)Mat
+    second: {fileID: 2100000, guid: bdbe6c201d1469d4b9cca12c12f112fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(76)Mat
+    second: {fileID: 2100000, guid: 952a90049939250479ae4a52034862eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(77)Mat
+    second: {fileID: 2100000, guid: 63162035058f36243b7efc3b500b4cf2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(78)Mat
+    second: {fileID: 2100000, guid: dac0d97f3f8c55241951240becd212eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(79)Mat
+    second: {fileID: 2100000, guid: 363c51def9dd51a4688020f95d6d74ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(8)Mat
+    second: {fileID: 2100000, guid: 1a621ab8faa4e744385b67fc03145140, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(80)Mat
+    second: {fileID: 2100000, guid: c055db51fcd72a240aec8cd40c718f77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(81)Mat
+    second: {fileID: 2100000, guid: 931c9a989bf471447ab540ee22ec7492, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(82)Mat
+    second: {fileID: 2100000, guid: 49617de3f073c874c867a35f25e2e4a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(83)Mat
+    second: {fileID: 2100000, guid: d3411db7905a3ae44b8e3c9c9350945f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(84)Mat
+    second: {fileID: 2100000, guid: 169e15aeb4aa645418d3ffc66647a6cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(85)Mat
+    second: {fileID: 2100000, guid: e2e092a691f61be459814516a3d2df63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(86)Mat
+    second: {fileID: 2100000, guid: 10c14705a5119bb4082228c16f579bfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(87)Mat
+    second: {fileID: 2100000, guid: 48c38e5e68d6b0447993bf7f3f87d67e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(88)Mat
+    second: {fileID: 2100000, guid: 9ecce6134b479c343a43d1619f663b1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(89)Mat
+    second: {fileID: 2100000, guid: ddca716c032cea04bae3187a4cefd05e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(9)Mat
+    second: {fileID: 2100000, guid: 9e109519c1e1e684ebf5aa74572b47d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(90)Mat
+    second: {fileID: 2100000, guid: 27bade61de72edc4caf9288374f69609, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(91)Mat
+    second: {fileID: 2100000, guid: d61629be99e676d4ca6bddfec28ee5be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(92)Mat
+    second: {fileID: 2100000, guid: f1d8e1e6a4500e84f894202165b2135c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(93)Mat
+    second: {fileID: 2100000, guid: 313a128b71162e4439f3089665ae757e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(94)Mat
+    second: {fileID: 2100000, guid: 0d0ecf8b8d908b049ade06792e16ec87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(95)Mat
+    second: {fileID: 2100000, guid: bc6e4c759e3641b478b82da08d8e733b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(96)Mat
+    second: {fileID: 2100000, guid: f9c3bb6624708f94f890579a38f74566, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(97)Mat
+    second: {fileID: 2100000, guid: 0d48ef04e59eef34f9553f447fbb7c40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(98)Mat
+    second: {fileID: 2100000, guid: fb7c7c81df48cef46b64fd78fcd6cc29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_(99)Mat
+    second: {fileID: 2100000, guid: b76b6a00838dcda4aa2c91c2fb301769, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StairsMat
+    second: {fileID: 2100000, guid: 3dd48062b6929b14aaf2db435c060294, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stairs_(1)Mat
+    second: {fileID: 2100000, guid: ce10603784f88b14ab7194f25fda8241, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stairs_(10)Mat
+    second: {fileID: 2100000, guid: 570b92fa20c9ddc408ad67150424fb79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stairs_(11)Mat
+    second: {fileID: 2100000, guid: 77f3228dd9b6b08458b150c54fb21652, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stairs_(12)Mat
+    second: {fileID: 2100000, guid: bfae3f77328bd334b91523992990f643, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stairs_(13)Mat
+    second: {fileID: 2100000, guid: dc4d3444aff9e1948a497ff733caf01c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stairs_(14)Mat
+    second: {fileID: 2100000, guid: 6022c7bb50887474fa9809a11ba3c091, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stairs_(15)Mat
+    second: {fileID: 2100000, guid: 5bf0fe6d812a51e46b02ee7dc4c84a96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stairs_(16)Mat
+    second: {fileID: 2100000, guid: de8a316108019fb45916207b77dc8aaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stairs_(17)Mat
+    second: {fileID: 2100000, guid: 125cf86dc628ae7438236e8ab6c2b800, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stairs_(18)Mat
+    second: {fileID: 2100000, guid: 8044c5e9ce9880943b48584b559cca7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stairs_(19)Mat
+    second: {fileID: 2100000, guid: 353016e84c979e148a10ea83812519e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stairs_(2)Mat
+    second: {fileID: 2100000, guid: f2cd94d3e67ee6d46a7c71974215d523, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stairs_(20)Mat
+    second: {fileID: 2100000, guid: 87ba5ac3b3adbed4dbfead4c95cad344, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stairs_(21)Mat
+    second: {fileID: 2100000, guid: 1e054e325a7d00e4898c7af4da082f07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stairs_(22)Mat
+    second: {fileID: 2100000, guid: 1d84a1e6d1241f4468b5422c6aeac294, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stairs_(23)Mat
+    second: {fileID: 2100000, guid: c0afabd7cee34a041ac40451b907ab33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stairs_(24)Mat
+    second: {fileID: 2100000, guid: b78a93a0cbcc2e146bdc99ecdccd7cd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stairs_(25)Mat
+    second: {fileID: 2100000, guid: 60d172b187af82444932b72e1a30e38a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stairs_(3)Mat
+    second: {fileID: 2100000, guid: c8abb4df3db688f4891c048241a20f3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stairs_(4)Mat
+    second: {fileID: 2100000, guid: 9032686f3ff04574daf8e0dba3070222, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stairs_(5)Mat
+    second: {fileID: 2100000, guid: fc6d1ceb6c9f7834788fa6e6a5d3f183, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stairs_(6)Mat
+    second: {fileID: 2100000, guid: 973d5a92ee4f53b48824768c83403911, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stairs_(7)Mat
+    second: {fileID: 2100000, guid: bdda3965ae74a504f857e6165395b324, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stairs_(8)Mat
+    second: {fileID: 2100000, guid: 99bee59c304fe0a41a1e9dc723f168aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stairs_(9)Mat
+    second: {fileID: 2100000, guid: 01fed03bbd8800942b51032335fc0497, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
