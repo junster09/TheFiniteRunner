@@ -4,11 +4,12 @@ using UnityEngine;
 using UnityEngine.UI;
 
 public class aThennascript : MonoBehaviour {
-	[SerializeField] private RawImage redBlock;
-	public float atenasped = 7f; //base speed god moves
-	private Rigidbody2D thisrb;
-	private GameObject Player;
-	private Rigidbody2D PlayerRb;
+    [SerializeField] private RawImage redBlock;
+    public float atenasped = 7f; //base speed god moves
+    private Rigidbody2D thisrb;
+    private GameObject Player;
+    private Rigidbody2D PlayerRb;
+    [SerializeField] private float atenaspedInc;
 	[SerializeField] private float DistanceBetweenPlayer;
     [SerializeField] private float MaximumDistanceFromPlayer;
 	private Vector3 RespawnPoint;
@@ -50,5 +51,8 @@ public class aThennascript : MonoBehaviour {
 		if (DistanceBetweenPlayer >= MaximumDistanceFromPlayer) {
 			thisrb.MovePosition(new Vector2(PlayerRb.position.x - MaximumDistanceFromPlayer,PlayerRb.position.y));
 		}
+
+        //GOTTA GO FAST
+        atenasped = atenasped + (atenaspedInc * Time.deltaTime);
 	}
 }
