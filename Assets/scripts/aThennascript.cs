@@ -4,12 +4,12 @@ using UnityEngine;
 using UnityEngine.UI;
 
 public class aThennascript : MonoBehaviour {
-    [SerializeField] private RawImage redBlock;
     public float atenasped = 7f; //base speed god moves
+    [SerializeField] private float atenaspedInc;
     private Rigidbody2D thisrb;
     private GameObject Player;
     private Rigidbody2D PlayerRb;
-    [SerializeField] private float atenaspedInc;
+
 	[SerializeField] private float DistanceBetweenPlayer;
     [SerializeField] private float MaximumDistanceFromPlayer;
 	private Vector3 RespawnPoint;
@@ -33,20 +33,13 @@ public class aThennascript : MonoBehaviour {
 		DistanceBetweenPlayer = Mathf.Abs((Mathf.Abs(thisrb.position.x) - Mathf.Abs(PlayerRb.position.x)));//get an absolute value for the distance between the player and god
 		if (PlayerRb.position.x >= 0f) {
 			thisrb.MovePosition(new Vector2((thisrb.position.x + atenasped * Time.deltaTime),PlayerRb.position.y));
-		}
+		}     
         /*
-        //do the hud color thingy
-		if (DistanceBetweenPlayer <= 1f && PlayerRb.position.x >= 0f) {
-			redBlock.color = new Color(1,0,0,DistanceBetweenPlayer);
-		}else if (DistanceBetweenPlayer >= 1f && PlayerRb.position.x >= 0f) {
-			redBlock.color = new Color(1,0,0,0);
-		}
-        */      
-
         //if player is "not moving" make godspeed REALLY fast
 		if (PlayerRb.velocity.x <= 11.9f) {
 			thisrb.MovePosition(new Vector2((thisrb.position.x + ((atenasped*20) * Time.deltaTime)),PlayerRb.position.y));
 		}
+        */
         //if player is too far make god a certain distance away
 		if (DistanceBetweenPlayer >= MaximumDistanceFromPlayer) {
 			thisrb.MovePosition(new Vector2(PlayerRb.position.x - MaximumDistanceFromPlayer,PlayerRb.position.y));
